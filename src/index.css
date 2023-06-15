@@ -30,9 +30,9 @@ li:hover::before{
   color: #2a68ff;
 }
 
-/* .icon{
+.icon{
   cursor: pointer;
-} */
+}
 
 /* .card{
   background: #000;
